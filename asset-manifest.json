@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-meetings/static/css/main.1ecfa897.css",
-    "main.js": "/react-meetings/static/js/main.cf5e0ad4.js",
+    "main.js": "/react-meetings/static/js/main.bb580b85.js",
     "index.html": "/react-meetings/index.html",
     "main.1ecfa897.css.map": "/react-meetings/static/css/main.1ecfa897.css.map",
-    "main.cf5e0ad4.js.map": "/react-meetings/static/js/main.cf5e0ad4.js.map"
+    "main.bb580b85.js.map": "/react-meetings/static/js/main.bb580b85.js.map"
   },
   "entrypoints": [
     "static/css/main.1ecfa897.css",
-    "static/js/main.cf5e0ad4.js"
+    "static/js/main.bb580b85.js"
   ]
 }
