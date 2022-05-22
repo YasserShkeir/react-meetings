@@ -9,9 +9,9 @@ function App() {
   return (
     <Layout>
       <Routes>
-        <Route path="/" element={<AllMeetupsPage />} />
-        <Route path="/new-meetup" element={<NewMeetupPage />} />
-        <Route path="/favorites" element={<FavoritesPage />} />
+        <Route path="/react-meetings" element={<AllMeetupsPage />} />
+        <Route path="/react-meetings/new-meetup" element={<NewMeetupPage />} />
+        <Route path="/react-meetings/favorites" element={<FavoritesPage />} />
       </Routes>
     </Layout>
   );
