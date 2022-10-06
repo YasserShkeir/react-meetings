@@ -16,7 +16,7 @@ function NewMeetupPage() {
           'Content-type':'application/json'
         }
       }).then(() => {
-        history('/');
+        history('/react-meetings');
       });
   }
 
